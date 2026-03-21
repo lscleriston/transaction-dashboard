@@ -1,6 +1,6 @@
 import { useState } from "react";
-import Dashboard from "./pages/Dashboard";
-import AccountMappings from "./pages/AccountMappings";
+import Dashboard from "@/pages/Dashboard";
+import AccountMappings from "@/pages/AccountMappings";
 
 type PageView = "dashboard" | "accounts";
 
